@@ -1,0 +1,24 @@
+# Eclipse e Spring Tool Suite
+.project
+.classpath
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Arquivos gerados pelo Maven
+target/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos com configurações locais ou segredos
+.env
